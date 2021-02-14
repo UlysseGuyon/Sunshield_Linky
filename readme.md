@@ -1,6 +1,10 @@
 
 # Cette page décrit le projet de shield pour l'acquisition des données d'énergie vers le raspberry pour le projet sunshare.
 
+Auteurs :
+- Simon Pallard
+- Omar Addi
+
 
 <p align="center"> <img width="400" alt="Diagramme" src="https://user-images.githubusercontent.com/39769580/76103935-d20c1700-5fd2-11ea-8317-cf65dcb8d723.png"> </p>
 
